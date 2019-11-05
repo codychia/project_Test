@@ -1,2 +1,2 @@
 # project_SEM
-A university website  
+A Pet lover website  
