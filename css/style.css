@@ -1018,7 +1018,7 @@ ul {
   color: #fff;
   background: #4D4D4D;
   padding: 8px 15px;
-  border-radius: 5px;
+  border-radius: 50%;
 }
 
 @media (min-width: 768px) {
@@ -1071,12 +1071,12 @@ ul {
   content: "";
   display: block;
   padding-top: 15px;
-  border-bottom: 1px solid #f0e9ff;
+  border-bottom: 1px solid #ffccff;
 }
 
 /* line 576, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_blog.scss */
 .blog_right_sidebar .single_sidebar_widget {
-  background: #fbf9ff;
+  background: #f0e9ff;
   padding: 30px;
   margin-bottom: 30px;
 }
@@ -1116,7 +1116,7 @@ ul {
 /* line 614, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_blog.scss */
 .blog_right_sidebar .search_widget .input-group button i, .blog_right_sidebar .search_widget .input-group button span {
   font-size: 14px;
-  color: #999999;
+  color: #333333;
 }
 
 /* line 625, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_blog.scss */
@@ -1124,14 +1124,15 @@ ul {
   height: 50px;
   border-color: #f0e9ff;
   font-size: 13px;
-  color: #999999;
-  padding-left: 20px;
+  color: #333333;
+  padding-le
+ft: 20px;
   border-radius: 0;
 }
 
 /* line 634, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_blog.scss */
 .blog_right_sidebar .newsletter_widget .form-control::placeholder {
-  color: #999999;
+  color: #333333;
 }
 
 /* line 638, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_blog.scss */
@@ -1226,12 +1227,12 @@ ul {
 .blog_right_sidebar .tag_cloud_widget ul li a {
   display: inline-block;
   border: 1px solid #eeeeee;
-  background: #fff;
+  background: #e6ccff;
   padding: 4px 20px;
   margin-bottom: 8px;
   margin-right: 3px;
   transition: all 0.3s ease 0s;
-  color: #888888;
+  color: #333333;
   font-size: 13px;
 }
 
@@ -4377,7 +4378,7 @@ h6 {
 
 /* line 25, /Applications/MAMP/htdocs/palash/cl/august 2019/198 Animal adoption/198 Animal adoption html/sass/_gallery.scss */
 .gallery_part .single_gallery_part img {
-  border-radius: 5px;
+  border-radius: 50%;
   width: 100%;
 }
 
